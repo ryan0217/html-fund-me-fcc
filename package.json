@@ -1,0 +1,10 @@
+{
+  "name": "html-fund-me-fcc",
+  "version": "1.0.0",
+  "repository": "git@github_private:sunrui1996/html-fund-me-fcc.git",
+  "author": "sunrui1996 <183428323@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
